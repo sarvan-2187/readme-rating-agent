@@ -32,7 +32,7 @@ readme-rating-agent/
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone https://github.com/yourusername/readme-rating-agent.git
+   git clone https://github.com/sarvan-2187/readme-rating-agent.git
    cd readme-rating-agent
    ```
 
