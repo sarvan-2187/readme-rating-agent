@@ -1,6 +1,6 @@
-# GitHub README Rating Agent
+# Readerr - GitHub README Rating Agent
 
-A production-ready AI agent that evaluates the quality of a GitHub repository's README and assigns a rating out of **5.0**. It is built with Python, CrewAI, LangChain, Groq API (Llama 3 70B), and Rich for a beautiful CLI experience.
+A production-ready AI agent that evaluates the quality of a GitHub repository's README and assigns a rating out of **5.0**. It is built with Python, CrewAI, LangChain, Groq API (Llama 3.3 70B), and Rich for a beautiful CLI experience.
 
 ## Features
 
