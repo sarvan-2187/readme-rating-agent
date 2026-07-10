@@ -25,7 +25,7 @@ readme-rating-agent/
 
 ## Prerequisites
 
-- Python 3.10+
+- Python 3.11+
 - A valid [Groq API Key](https://console.groq.com/) for Llama 3 models.
 
 ## Installation
