@@ -2,6 +2,8 @@
 
 A production-ready AI agent that evaluates the quality of a GitHub repository's README and assigns a rating out of **5.0**. It is built with Python, CrewAI, LangChain, Groq API (Llama 3.3 70B), and Rich for a beautiful CLI experience.
 
+https://github.com/user-attachments/assets/72e15cc3-e505-4b2d-a5d6-2ad2aa2126fb
+
 ## Features
 
 - **Automated Fetching**: Automatically fetches the README content using the GitHub API without needing to clone the repo.
